@@ -295,7 +295,7 @@ input[type="submit"],
 input[type="color"],
 textarea,
 select {
-  padding: .1rem 1.2rem;
+  padding: .1rem .1rem;
   margin-bottom: .1rem;
   transition: color .1s, background-color .1s, border .1s;
   line-height: inherit;
@@ -304,7 +304,7 @@ select {
   border-radius: 0;
   -webkit-appearance: none;
   .icon {
-    margin: 0 0 .35rem;
+    margin: 0 0 .2rem;
   }
 }
 
