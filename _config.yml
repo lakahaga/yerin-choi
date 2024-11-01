@@ -121,14 +121,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: https://lakahaga.github.io/yerin-choi/
+- title: Portfolio
+  url: /portfolio/
 - title: LinkedIn
   url: https://linkedin.com/in/yerin-choi-a30a4522a
 - title: Github
   url: https://github.com/lakahaga
 - title: Google Scholar
   url: https://scholar.google.com/citations?user=7ppYiKEAAAAJ&hl=ko&oi=ao
-- title: Search
-  url: /search/
+
 
 
 navigation_footer:
