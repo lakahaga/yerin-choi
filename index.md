@@ -11,6 +11,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 {% include button.html text="Github" icon="github" link="https://github.com/lakahaga" %} {% include button.html text="LinkedIn" icon="linkedin" link="www.linkedin.com/in/yerin-choi-a30a4522a"%} {% include button.html text="Google Scholar" icon="linkedin" link="www.linkedin.com/in/yerin-choi-a30a4522a"%} 
 {% include icon.html id="github" link="https://github.com/lakahaga" %} {% include icon.html id="linkedin" link="www.linkedin.com/in/yerin-choi-a30a4522a" %}
 
+<li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Seoul, Korea</li>
 
 ## Objective
 
