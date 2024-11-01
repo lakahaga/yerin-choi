@@ -11,82 +11,131 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 {% include button.html text="" icon="github" link="https://github.com/lakahaga" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
+## Objective
+
+PhD applicant with a background in speech processing, aiming to research pathological speech analysis further. Specially explored speech synthesis and dysarthric speech analysis, presenting papers at international conferences. Interested in developing speech models for people with speech disorders and automatic diagnostic models with speech interfaces. Determined to advance pathological speech processing to clinical usability.
+
 ## Education
 
-- Sogang University
-- Sogang University Seoul, South Korea
-- Master of Science in Artificial Intelligence Mar 2022 - Feb 2024
-◦ Thesis: Diffusion-based Dysarthric Speech Augmentation for Enhanced Automatic Severity Classification in
-Dysarthric Speech
-◦ Advisor: Myoung-Wan Koo, Intelligent Spoken Dialogue Interface System (ISDS) Lab
-• Bachelor of Computer Science and Engineering, Bachelor of Economics Mar 2018 - Feb 2022
+**Sogang University**  
+_Seoul, South Korea_
+
+### Master of Science in Artificial Intelligence (Mar 2022 - Feb 2024)
+- GPA: 3.89/4.30
+- Thesis: **Diffusion-based Dysarthric Speech Augmentation for Enhanced Automatic Severity Classification in Dysarthric Speech**
+- Advisor: [Myoung-Wan Koo](https://scholar.google.com/citations?user=iNco12gAAAAJ&hl=ko&oi=ao), Intelligent Spoken Dialogue Interface System (ISDS) Lab
+
+### Bachelor of Computer Science and Engineering, Bachelor of Economics (Mar 2018 - Feb 2022)
+- GPA: 3.25/4.30
 
 ## Experience
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+**Brain Research Institute, Korea Institute of Science and Technology (KIST)**  
+_Seoul, South Korea_  
+_Intern (Nov 2024 - Ongoing)_  
+- The Laboratory of Computational Neurophysics (LCNP) led by [Kyungreem Han](https://bsi.kist.re.kr/dt_team/%ED%95%9C%EA%B2%BD%EB%A6%BC-kyungreem-han-ph-d/)
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+**Naver Cloud**  
+_Seongnam, South Korea_  
+_Intern (Nov 2023 - May 2024)_  
+- Developed style transfer TTS model in non-parallel style transfer
+- Submitted a paper "AdvDualTTS: Dual Style Embeddings with Adversarial Learning in Non-parallel Style Transfer" to ICASSP 2025
 
 ## Publications
-1. **Yerin Choi, Myoung-Wan Koo**. (2023). [**DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer**](https://www.isca-archive.org/interspeech_2023/choi23f_interspeech.pdf). *Proc. INTERSPEECH 2023* (First Author)
 
-2. **Yerin Choi, Jeehyun Lee, Myoung-Wan Koo**. (2024). [**Inappropriate Pause Detection in Dysarthric Speech Using Large-Scale Speech Recognition**](https://ieeexplore.ieee.org/document/10447681). *Proc. ICASSP 2024* (First Co-Author)
+1. **Yerin Choi, Myoung-Wan Koo.** (2023). [DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer](https://www.isca-archive.org/interspeech_2023/choi23f_interspeech.pdf). Proc. INTERSPEECH 2023 (First Author)
+2. **Yerin Choi, Jeehyun Lee, Myoung-Wan Koo.** (2024). [Inappropriate Pause Detection in Dysarthric Speech Using Large-Scale Speech Recognition](https://ieeexplore.ieee.org/document/10447681). Proc. ICASSP 2024 (First Co-Author)
+3. **Yerin Choi, Jeehyun Lee, Myoung-Wan Koo.** (2024). [Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech](https://drive.google.com/file/d/1L_rtyjHhHT3o7soRg0VDwovYD1j9fU96/view?usp=sharing). Accepted to SLT 2024 (First Co-Author)
+4. **Yerin Choi, Chan-Ho Song, Jin-Seob Kim, Hyun-Wook Yoon, Eunwoo Song.** (2024). [AdvDualTTS: Dual Style Embeddings with Adversarial Learning in Non-parallel Style Transfer](https://drive.google.com/file/d/18HmT2PPbjQ-FbJkfCpdXOV5yFlRmKE6T/view?usp=sharing). Submitted to ICASSP 2025 (First Author)
 
-3. **Yerin Choi, Jeehyun Lee, Myoung-Wan Koo**. (2024). [**Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech**](https://drive.google.com/file/d/1L_rtyjHhHT3o7soRg0VDwovYD1j9fU96/view?usp=sharing). *Accepted to SLT 2024* (First Co-Author)
+## Projects
 
-4. **Yerin Choi, Chan-Ho Song, Jin-Seob Kim, Hyun-Wook Yoon, Eunwoo Song**. (2024). [**AdvDualTTS: Dual Style Embeddings with Adversarial Learning in Non-parallel Style Transfer**](https://drive.google.com/file/d/18HmT2PPbjQ-FbJkfCpdXOV5yFlRmKE6T/view?usp=sharing). *Submitted to ICASSP 2025* (First Author)
+### Development of AI Technology that Provides Dialog-Based Multi-Modal Explainability  
+Dialoge-based XAI in Medicine (Mar 2022 - Dec 2023)
+- Developed Automatic Diagnosis and Explanation System of Dysarthric Speech for Therapy Application
+- Presented "Inappropriate Pause Detection in Dysarthric Speech Using Large-Scale Speech Recognition" in ICASSP 2024
+- Accepted "Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech" to SLT 2024
 
-### Quick setup
+### Development of Robot and Contents Supporting Children's Reading Activities Based on AI  
+TTS models for children (Mar 2022 - Dec 2023)
+- Developed TTS System for Children's Reading Activity Support Robot
+- Presented "DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer" in Interspeech 2023
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+### Development of a Conversational Tone/Style Transfer Model for Dialogue Models  
+Persona-specific Chit-chat model (Jun - Jul 2023)
+- Designed and implemented a style transfer model to generate dialogue tailored to the communication style of women in their 20s.
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+### AI-based Reading Learning Application for Improving Concentration and Sustained Focus  
+Korean Summarization Model for Reading Support (Jul 2021 - Feb 2022)
+- Implemented sentence-length-specific Korean summarization model, achieving patent.  
+- **Patent:** Yerin Choi, Hyun Eui Hong, Myoung-Wan Koo, Jeongpil Lee. Republic of Korea. System for summarizing automatically arbitrary sentences (Patent Number: 10-2021-0152256)
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+## Awards and Scholarships
 
-### As a Jekyll theme
+### Best Paper Award in KCC 2023  
+_Korean Institute of Information Scientists and Engineers (KIISE) (Jun 2023)_
+- "A Model-based Method for Automatic Transcription Error Detection in ASR Corpora"
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+### 1st Place in the Data-centric AI Hackathon  
+_National Information Society Agency (NIA) of Korea (Nov 2022)_
+- Automated framework for quality measurement and improvement of Korean speech datasets
 
-### As a GitHub Pages remote theme
+### 1st Place in SKT AI Fellowship  
+_SK Telecom, South Korea (Jun 2022 - Oct 2022)_
+- Development of a Chatbot Engine for AI-curated Lecture Recommendations
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+### Graduate School Dean's Special Scholarship  
+_Sogang University (Jul 2022)_
+- For outstanding research results
 
-### As a Boilerplate / Fork
+### Smilegate AI Major Scholarship  
+_Smilegate AI, South Korea (2022 - 2024)_
+- Financial aid for prominent students
 
-_(deprecated, not recommended)_
+## Teaching Experience
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+**Teaching Assistant at Sogang University**
 
-## Customising
+- Pattern Recognition (CSE5416) - Spring, 2023
+- Advanced Applied C Programming (STS2008) - Spring-Fall, 2022
+- Computational Thinking (COR1009) - Fall, 2021
 
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
+## Conferences
 
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
+- **Interspeech 2022** - Incheon, South Korea - Student Volunteer (Sep 2022)
+- **Interspeech 2023** - Dublin, Ireland - Presented "DC CoMix TTS: An End-to-End Expressive TTS with Discrete Code Collaborated with Mixer" (Poster) (Aug 2023)
+- **ICASSP 2024** - Seoul, South Korea - Presented "Inappropriate Pause Detection in Dysarthric Speech Using Large-Scale Speech Recognition" (Poster) (Apr 2024)
+- **Interspeech 2024** - Kos, Greece - Attendee (Sep 2024)line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+## **Relevant Coursework**
+
+| **Math / Statistics**                  | **Computer Science**                         | **Machine Learning and AI**                                           |
+|----------------------------------------|---------------------------------------------|------------------------------------------------------------------------|
+| Introduction to Linear Algebra^†       | C, Python, JAVA Language Programming^†      | Game Theory^†                                                          |
+| Analytic Geometry and Calculus I^†     | Discrete Structures^†                       | Introduction to Artificial Intelligence^†                              |
+| College Mathematics^†                  | Data Structures^†                           | Financial Data Analysis using Machine and Deep Learning^†             |
+| Mathematical Methods for Economists^†  | Design and Analysis of Algorithms^†         | Natural Language Processing^‡                                         |
+| Economic Statistics^†                  | Assembly Programming^†                      | Reinforcement Learning^‡                                              |
+| Econometrics I^†                       | Introduction to Digital Circuits^†          | Big Data Computing (Capstone Design)^‡                                |
+| Mathematical Economics^†               | Computer Architecture^†                     | Introduction to Dialogue-based User Interface^‡                       |
+| Probability and Statistics for AI^‡    | Database System^†                           | Development and Commercialization of Spoken Dialogue System based on DNN^‡ |
+|                                        | Operating Systems^†                         | Analysis and Generation of Music with Deep Learning^‡                 |
+|                                        | Computer Science and Engineering Laboratory I, II^† | AI Industry Project Exercise^‡                                      |
+|                                        | Introduction to Computer Graphics^†         | Special Topic on Digital Human and Entertainment^‡                    |
+
+<small>†: Undergraduate coursework, ‡: Graduate coursework</small>
+
+---
+
+**Online Courses**:  
+- Engineering Mathematics ([ME564, University of Washington](https://youtu.be/QM0ATZRlbKQ?si=B-pNLCPwK_5yQ2hZ))  
+- Artificial Intelligence: Principles and Techniques ([CS221, Stanford](https://youtu.be/J8Eh7RqggsU?si=7HLA7HdDqDzGzCjV))  
+- Natural Language Processing with Deep Learning ([CS224N, Stanford](https://youtu.be/rmVRLeJRkl4?si=37wTehZhu-3Uk7qv))
+
+---
+
+## **Skills**
+
+- **Technical Skills**: Python, PyTorch, Git, AWS
+- **Languages**: English (Advanced), Spanish (Intermediate)
+
