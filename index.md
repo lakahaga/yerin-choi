@@ -11,12 +11,8 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 {% include button.html text="Github" icon="github" link="https://github.com/lakahaga" %} 
 {% include button.html text="LinkedIn" icon="linkedin" link="www.linkedin.com/in/yerin-choi-a30a4522a" %} 
 {% include button.html text="Google Scholar" icon="linkedin" link="https://scholar.google.com/citations?user=7ppYiKEAAAAJ&hl=ko&oi=ao" %} 
-{% include icon.html id="github" link="https://github.com/lakahaga" %} {% include icon.html id="linkedin" link="www.linkedin.com/in/yerin-choi-a30a4522a" %}
-
-<li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Seoul, Korea</li>
-<li><a href="www.linkedin.com/in/yerin-choi-a30a4522a"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
-<li><a href="https://scholar.google.com/citations?hl=en&amp;user=e89NRb0AAAAJ&amp;view_op=list_works&amp;sortby=title"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-{% include icon.html id="github" link="https://github.com/lakahaga" %}<li><a href="https://github.com/lakahaga"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+{% include icon.html id="github" link="https://github.com/lakahaga" %} 
+{% include icon.html id="linkedin" link="www.linkedin.com/in/yerin-choi-a30a4522a" %}
 
 ## Objective
 
