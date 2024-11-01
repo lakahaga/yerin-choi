@@ -8,11 +8,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
-{% include button.html text="Github" icon="github" link="https://github.com/lakahaga" %} 
-{% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/yerin-choi-a30a4522a" %} 
-{% include button.html text="Google Scholar" icon="linkedin" link="https://scholar.google.com/citations?user=7ppYiKEAAAAJ&hl=ko&oi=ao" %} 
-{% include icon.html id="github" link="https://github.com/lakahaga" %} 
-{% include icon.html id="linkedin" link="www.linkedin.com/in/yerin-choi-a30a4522a" %}
+
 
 ## Objective
 
