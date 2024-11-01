@@ -1,5 +1,5 @@
 ---
-title: About Yerin Choi
+title: Yerin Choi
 feature_text: |
   
 feature_image: "./header_photo.jpeg"
